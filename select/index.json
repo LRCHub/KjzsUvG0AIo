@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "わすれもの",
+  "base_artist": "サイダーガール",
+  "createdAt": "2026-02-08T10:56:04.506293Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "わすれもの",
+      "artist": "パスピエ",
+      "has_synced": true,
+      "path": "select/01_わすれもの_パスピエ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "わすれもの",
+      "artist": "DOES",
+      "has_synced": false,
+      "path": "select/02_わすれもの_DOES.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "わすれもの",
+      "artist": "Kazuyoshi Saito",
+      "has_synced": true,
+      "path": "select/03_わすれもの_Kazuyoshi_Saito.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "わすれもの",
+      "artist": "サイダーガール",
+      "has_synced": false,
+      "path": "select/pl_01_わすれもの_サイダーガール.txt"
+    }
+  ]
+}
